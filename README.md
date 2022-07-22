@@ -187,3 +187,5 @@ php artisan serve
 ```
 -  Vào 
 http://localhost:8000/user/create
+
+![Container](a.png)
